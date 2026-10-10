@@ -1,8 +1,8 @@
 """
 =============================================================================
-LAYER FARM PREDICTIVE MODEL & YIELD FORECASTING PIPELINE
+EGG LAYER FARM PREDICTIVE MODEL & YIELD FORECASTING PIPELINE
 =============================================================================
-Author: Agritech ML Research & Operations
+BY VU-BAD-2603-0551-DAY-SANKARA DERRICK
 Purpose: Predict daily egg production, benchmark ML models, and forecast 
          operational yields and margins using daily farm records.
 Dependencies: numpy, pandas, matplotlib (standard library, zero-setup)
